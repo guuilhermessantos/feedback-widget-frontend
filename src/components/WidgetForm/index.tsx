@@ -7,6 +7,7 @@ import { FeedbackTypeStep } from "./Steps/FeedbackTypeStep";
 import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
 import { FeedbackSuccessStep } from "./Steps/FeedbackSucessStep";
 
+
 export const feedBackTypes = {
    BUG: {
       title: 'Problema',
